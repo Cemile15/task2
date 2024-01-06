@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(249, 235, 214);
+}
+.div5{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-family: sans-serif;
+}
+h2{
+    color: brown;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+p{
+    text-align: center;
+    font-size: 25px;
+}
+hr{
+    color: blue;
+}
